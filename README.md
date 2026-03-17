@@ -1,0 +1,1 @@
+# astrbot_plugin_same_name
