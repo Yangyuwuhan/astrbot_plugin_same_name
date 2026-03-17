@@ -1,4 +1,4 @@
-![example](https://github.com/user-attachments/assets/4725969d-ad50-4da0-bfa4-6661fece8d87)# 重名查询
+# 重名查询
 
 ## 简介
 
@@ -14,7 +14,8 @@
 - 使用指令 `/重名 [姓名]` 进行查询
 - 示例:
 
-![example](https://github.com/user-attachments/assets/d78df165-de1b-4d3f-b6b3-4eb9938f59a8)
+![example](https://github.com/user-attachments/assets/60dd295b-e54a-4645-b211-2b78e26e5b26)
+
 
 ## 声明
 
