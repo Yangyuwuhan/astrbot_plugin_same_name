@@ -1,0 +1,14 @@
+{
+  "apikey": {
+    "description": "API 密钥",
+    "type": "string",
+    "hint": "请填写从 https://api-v2.yuafeng.cn 获取的 API 密钥",
+    "obvious_hint": true
+  },
+  "merge_forward": {
+    "description": "是否合并转发消息",
+    "type": "bool",
+    "default": false,
+    "hint": "开启后，查询结果将以合并转发的形式发送"
+  }
+}

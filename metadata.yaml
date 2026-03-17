@@ -1,0 +1,10 @@
+name: astrbot_plugin_same_name
+display_name: 重名查询
+author: Yangyuwuhan
+description: 查询全国重名人数和相关信息
+version: "1.2.0"
+repo: "https://github.com/Yangyuwuhan/astrbot_plugin_same_name"
+tags:
+  - 工具
+  - 查询
+  - 重名
